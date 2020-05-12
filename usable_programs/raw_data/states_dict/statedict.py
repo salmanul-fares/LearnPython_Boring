@@ -1,0 +1,5 @@
+import pprint
+
+states = {'Andhra Pradesh':'Hyderabad (Proposed Capital Amaravati)', 'Arunachal Pradesh':'Itanagar', 'Assam':'Dispur', 'Bihar':'Patna', 'Chhattisgarh':'Raipur', 'Goa':'Panaji', 'Gujarat':'Gandhinagar', 'Haryana':'Chandigarh', 'Himachal Pradesh':'Shimla', 'Jammu and Kashmir':'Srinagar (summer), Jammu (winter)', 'Jharkhand':'Ranchi', 'Karnataka':'Bengaluru', 'Kerala':'Thiruvananthapuram', 'Madhya Pradesh':'Bhopal', 'Maharashtra':'Mumbai', 'Manipur':'Imphal', 'Meghalaya':'Shillong', 'Mizoram':'Aizawl', 'Nagaland':'Kohima', 'Odisha':'Bhubaneswar', 'Punjab':'Chandigarh', 'Rajasthan':'Jaipur', 'Sikkim':'Gangtok', 'Tamil Nadu':'Chennai', 'Telangana':'Hyderabad', 'Tripura':'Agartala', 'Uttar Pradesh':'Lucknow', 'Uttarakhand':'Dehradun', 'West Bengal':'Kolkata', 'Andaman and Nicobar Islands':'Port Blair', 'Chandigarh':'Chandigarh', 'Dadar and Nagar Haveli':'Silvassa', 'Daman and Diu':'Daman', 'Delhi':'Delhi', 'Lakshadweep':'Kavaratti', 'Puducherry':'Pondicherry', }
+
+pprint.pprint(states)
